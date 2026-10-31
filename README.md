@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Ruchita Sakharkar
 
-<!--
-**ruchitasakharkar54-max/ruchitasakharkar54-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Data Science) Student
 
-Here are some ideas to get you started:
+✨ Exploring AI | Learning Python | Building Tomorrow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me
+- 🎓 CSE (Data Science) Student
+- 💻 Interested in Artificial Intelligence
+- 🐍 Learning Python
+- 📊 Exploring Data Analytics
+- 🚀 Passionate about technology
+
+## 🛠️ Skills & Technologies
+- Python
+- C
+- C++
+- DBMS
+- Data Analytics
+
+## 🎯 My Goals
+- Improve my programming skills
+- Build real-world projects
+- Explore AI and Machine Learning
+
+## 🌐 Connect With Me
+- LinkedIn: Add your LinkedIn URL
+
+---
+✨ Learn • Explore • Create • Grow ✨
